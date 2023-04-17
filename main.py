@@ -7,7 +7,7 @@ print("CHKNet Carding Network Tribute by Andromeda")
 print("""[1] Gerar CC Mastercard
 [2] Gerar Informações Para usar na CC
 [3] Como Comprar com CC Gerada""")
-opção = input("Escolha Sua Opção: ")
+opção = int(input("Escolha Sua Opção: "))
 if opção == 1:
         print("""5155480604765806|04|2025|558   MASTERCARD-PLATINUM [LIVE]
 
