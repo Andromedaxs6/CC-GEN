@@ -913,3 +913,6 @@ pois a chance de ter a cc bloqueada ou até mesmo queimada são consideráveis
 
 
 !!! NÃO ME RESPONSABILIZO POR SEUS ATOS, CONHECIMENTO NÃO É CRIME!!!""")
+else:
+        print("Opção Inválida... Reiniciando o Sistema")
+        os.system("python3 main.py")
